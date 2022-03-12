@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
 
-    public static void main(String[] args) {
-	// write your code here
-    }
+        public static double add(double a, double b) {
+            return a + b;
+        }
 }
